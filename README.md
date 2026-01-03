@@ -4,7 +4,7 @@ An LSTM-based Recurrent Neural Network (RNN) built with TensorFlow/Keras to gene
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/midi-melody-generator.git](https://github.com/your-username/midi-melody-generator.git)
+    git clone https://github.com/your-username/midi-melody-generator.git
     cd midi-melody-generator
     ```
 2.  **Install dependencies:**
